@@ -1,0 +1,29 @@
+p
+{
+   font-size: 14px;
+}
+
+body
+{
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+
+
+.1
+{
+   color: red;
+   font-size: 24px;
+}
+
+.disclamer
+{
+   color: red;
+   font-size: 26px;
+   width: 905px;
+   height: 300px;
+   text-align: justify;
+   overflow: auto
+}
